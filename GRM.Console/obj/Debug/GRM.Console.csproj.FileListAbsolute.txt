@@ -1,0 +1,16 @@
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\GRM.Console.exe.config
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\GRM.Console.exe
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\GRM.Console.pdb
+C:\code\GlobalRightsManagement\GRM.Console\obj\Debug\GRM.Console.exe
+C:\code\GlobalRightsManagement\GRM.Console\obj\Debug\GRM.Console.pdb
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\code\GlobalRightsManagement\GRM.Console\bin\Debug\Data\partner.txt
+C:\code\GlobalRightsManagement\GRM.Console\obj\Debug\GRM.Console.g.resources
